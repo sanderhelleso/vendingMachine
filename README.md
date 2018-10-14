@@ -1,4 +1,5 @@
 # Project 1 for class CST238 Data Structrues - Vending Machine
+<br>
 
 ## Project Description
 In this project, you should develop a program named project1.cpp which include a class called VendingMachine. Note that the class simulates an imaginary vending machine on the CSUMB campus. 
@@ -9,7 +10,7 @@ Read the following demo program and its sample run very carefully and identify d
 
 ## Demo Program: The following code presents a demo program that uses the VendingMachine class.
 
-
+```
 1.	int main()
 2.	{
 3.	    cout << "===== Welcome to CSUMB Vending Machine =====\n";
@@ -83,7 +84,8 @@ Read the following demo program and its sample run very carefully and identify d
 71.	
 72.	    return 0;
 73.	}
-
+```
+<br>
 ## Sample Run of the Demo Program: The following presents a sample result of the demo program.
 ===== Welcome to CSUMB Vending Machine =====
 Number: 0, Name: UNKNOWN
