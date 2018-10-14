@@ -85,8 +85,10 @@ Read the following demo program and its sample run very carefully and identify d
 72.	    return 0;
 73.	}
 ```
-<br>
+
 ## Sample Run of the Demo Program: The following presents a sample result of the demo program.
+<br>
+```
 ===== Welcome to CSUMB Vending Machine =====
 Number: 0, Name: UNKNOWN
 Number: 200, Name: Library
@@ -188,12 +190,14 @@ Remaining: Water: 0 / Regular Coffee: 0 / Sun Chip: 0 / Chocolate Bar: 0
 Total Earning: $0.00
 
 ===== Thank you! =====
-
+```
 
 ## When you develop the program, you should consider the following conditions:
+<br>
 
+```
 1.	When a user types the money amount for the cash payment, you can assume that the user always types the correct money amount. For example, the user types the dollar sign ‘$’ and then number such as 30.54. You don’t need to check the validity of the money amount such as $35.345 or $12.45.34.
 2.	At the payment() function, if a user provides incorrect payment information such as an incorrect PIN or insufficient money amount, all selections the user chose should be de-selected.
 3.	At the payment() function, if a user didn’t select any items before, the function should return false because there’s nothing to pay.
 4.	If you have any further questions, please contact the instructor.
-
+```
