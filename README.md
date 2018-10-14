@@ -193,8 +193,8 @@ Total Earning: $0.00
 
 ## When you develop the program, you should consider the following conditions:
 <br>
-
-1.	When a user types the money amount for the cash payment, you can assume that the user always types the correct money amount. For example, the user types the dollar sign ‘$’ and then number such as 30.54. You don’t need to check the validity of the money amount such as $35.345 or $12.45.34.
-2.	At the payment() function, if a user provides incorrect payment information such as an incorrect PIN or insufficient money amount, all selections the user chose should be de-selected.
-3.	At the payment() function, if a user didn’t select any items before, the function should return false because there’s nothing to pay.
-4.	If you have any further questions, please contact the instructor.
+<ul>
+    <ol>When a user types the money amount for the cash payment, you can assume that the user always types the correct money amount. For example, the user types the dollar sign ‘$’ and then number such as 30.54. You don’t need to check the validity of the money amount such as $35.345 or $12.45.34.</ol>
+    <ol>At the payment() function, if a user provides incorrect payment information such as an incorrect PIN or insufficient money amount, all selections the user chose should be de-selected.</ol>
+    <ol>At the payment() function, if a user didn’t select any items before, the function should return false because there’s nothing to pay.</ol>
+    <ol>If you have any further questions, please contact the instructor.</ol>
